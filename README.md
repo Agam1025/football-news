@@ -1,9 +1,9 @@
-Nama : Pak Bepe
+Nama : Naufal Agam Ardiansyah
 
-NPM : 2401234567
+NPM : 2406345974
 
-Kelas : PBP A
+Kelas : PBP B
 
-Hobi : Tidur
+Hobi : Mendengarkan Musik
 
-Jurusan : Ilmu Sistem Informasi Komputer
+Jurusan : Ilmu Komputer
